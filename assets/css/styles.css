@@ -1,0 +1,24 @@
+.btn-primary:hover {
+  color: #ADD8E6;
+  background-color: #FF0000;
+  border-color: #FF0000;
+  font-weight: bold;
+  font-family: Advent pro;
+}
+
+.btn-primary {
+  color: #FFA500;
+  background-color: #000000;
+  border-color: #ffff00;
+  font-weight: bold;
+  font-family: Advent pro;
+}
+
+.btn-primary:hover {
+  color: #ADD8E6;
+  background-color: #FF0000;
+  border-color: #FF0000;
+  font-weight: bold;
+  font-family: Advent pro;
+}
+
